@@ -9,7 +9,7 @@ My own configs for fastfetch.
 3. Save it: `ctrl + o` > `enter` > `ctrl + x`
 
 ### Download custom ASCIIs 
-P.s. I didn't made the asciis myself, I used [emojicombos](https://emojicombos.com/rem-ascii-art). I highly recommend it since it also allows you to generate ASCII art from an image. 
+The ASCII art found in [asciis](./asciis) wasn't created by me. I used [EmojiCombos](https://emojicombos.com/rem-ascii-art), which I highly recommend since it also allows you to easily generate ASCII art from an image.
 
 ## 🛠 `config.jsonc` 
 You can customize Fastfetch’s output by editing its config file: 
