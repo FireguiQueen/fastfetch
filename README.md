@@ -7,4 +7,6 @@ My own config for fastfetch
 - example: `nano ~/.bashrc`
 2. add `fastfetch`
 
+## `Config.jsonc`
+
   
