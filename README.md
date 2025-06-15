@@ -1,6 +1,10 @@
 # fastfetch
 My own config for fastfetch
 
+# Installation
+Arch `sudo pacman -S fastfetch`
+Deb `sudo apt install fastfetch` 
+
 ## Making fastfetch always starts with terminal 
 1. Edit `.bashrc`
 - path: `~/.bashrc`
