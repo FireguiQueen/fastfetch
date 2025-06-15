@@ -1,7 +1,7 @@
 # Nixiefetch
 My own configs for fastfetch. 
 
-![image](./screenshots/src0.jpg)
+![image](./screenshots/src0.png)
 
 ## Automatically run Fastfetch on terminal startup 
 1. Open your .bashrc file (this runs every time a new terminal session starts):  `nano ~/.bashrc`
