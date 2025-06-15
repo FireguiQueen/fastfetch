@@ -3,8 +3,13 @@ My own config for fastfetch
 
 ## Automatically run Fastfetch on terminal startup 
 1. Open your .bashrc file (this runs every time a new terminal session starts):  `nano ~/.bashrc`
+2. Scroll to the bottom and add this line: `fastfetch`
+3. Save it: `ctrl + o` > `enter` > `ctrl + x` 
 
-## `Config.jsonc`
+## 🛠 `config.jsonc` 
+You can customize Fastfetch’s output by editing its config file: 
+- Path: `~/.config/fastfetch/config.jsonc`  (if it doesn't exist, you can create it)
+- paste the following: 
 ```json
   {
     "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",    
