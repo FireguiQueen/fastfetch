@@ -4,7 +4,10 @@ My own configs for fastfetch.
 ## Automatically run Fastfetch on terminal startup 
 1. Open your .bashrc file (this runs every time a new terminal session starts):  `nano ~/.bashrc`
 2. Scroll to the bottom and add this line: `fastfetch`
-3. Save it: `ctrl + o` > `enter` > `ctrl + x` 
+3. Save it: `ctrl + o` > `enter` > `ctrl + x`
+
+### Download custom ASCIIs 
+P.s. I didn't made the asciis myself, I used [emojicombos](https://emojicombos.com/rem-ascii-art). I highly recommend it since it also allows you to generate ASCII art from an image. 
 
 ## 🛠 `config.jsonc` 
 You can customize Fastfetch’s output by editing its config file: 
