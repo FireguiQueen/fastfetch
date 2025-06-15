@@ -1,5 +1,5 @@
-# fastfetch
-My own config for fastfetch
+# Nixiefetch
+My own configs for fastfetch. 
 
 ## Automatically run Fastfetch on terminal startup 
 1. Open your .bashrc file (this runs every time a new terminal session starts):  `nano ~/.bashrc`
