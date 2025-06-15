@@ -16,13 +16,13 @@ You can customize Fastfetch’s output by editing its config file:
 - Path: `~/.config/fastfetch/config.jsonc`  (if it doesn't exist, you can create it)
 - paste the following: 
 ```json
-  {
+{
     "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",    
   
   "logo": 
     {
         "type": "auto",      
-        "source": "~/.config/fastfetch/asciis/rem-smile-inverted.txt",      
+        "source": "~/.config/fastfetch/logos/asciis/rem-smile-1.txt", // PATH OF YOUR ASCII ART.      
         "padding": 
         {
             "top": 1,        
