@@ -2,10 +2,7 @@
 My own config for fastfetch
 
 ## Automatically run Fastfetch on terminal startup 
-1. Edit `.bashrc`
-- path: `~/.bashrc`
-- example: `nano ~/.bashrc`
-2. add `fastfetch`
+1. Open your .bashrc file (this runs every time a new terminal session starts):  `nano ~/.bashrc`
 
 ## `Config.jsonc`
 ```json
