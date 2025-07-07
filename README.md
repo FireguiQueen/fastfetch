@@ -4,10 +4,8 @@ My own configs for fastfetch.
 ![image](./screenshots/scr0.png)
 
 ## Automatically run Fastfetch on terminal startup 
-1. Open your .bashrc file (this runs every time a new terminal session starts):  `nano ~/.bashrc`
-2. Scroll to the bottom and add this line: `fastfetch` and also `alias clear='clear && fastfetch'` (when you clear the terminal the fastfetch output will still be shown)
-3. Save it: `ctrl + o` > `enter` > `ctrl + x`
-
+1. Open your .bashrc file (this runs every time a new terminal session starts):  `vim ~/.bashrc`
+2. Scroll to the bottom and add this line: `fastfetch` and also `alias clear='clear && fastfetch'` (when you clear the terminal the fastfetch output will still be shown). Save and close.
 
 
 ### Download custom ASCIIs 
